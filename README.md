@@ -12,6 +12,8 @@ CSV data. Several data example files were included for testing purposes.
 
 ![electron_rkASEMZk08](https://github.com/amafjarkasi/electron-csv-ai-assistant/assets/65797881/0ad38422-d2de-498d-9a75-a09072088c07)
 
+![electron_PqLjDe8mMS](https://github.com/amafjarkasi/electron-csv-ai-assistant/assets/65797881/134f5d97-e010-4f46-b036-66bbe202a0da)
+
 <br><br>
 
 ## Recommended IDE Setup
