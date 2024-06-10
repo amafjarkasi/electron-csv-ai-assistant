@@ -1,7 +1,7 @@
 # Electron CSV AI Assistant
 
 An Electron application with React and TypeScript that will analyze and provide insight into CSV file that's selected and processed
-
+<br><br>
 
 
 ![electron_QiKyCEBBNP](https://github.com/amafjarkasi/electron-csv-ai-assistant/assets/65797881/28fba778-28db-4128-81f6-8c5d420b0865)
