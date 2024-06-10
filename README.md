@@ -1,6 +1,7 @@
 # Electron CSV AI Assistant
 
-An Electron application with React and TypeScript that will analyze and provide insight into CSV file that's selected and processed
+An Electron application with React and TypeScript that will allow you to have a chat conversation with your CSV file by utilizing OpenAI and
+CopilotKit. The user can select the CSV file to process and the app will make that data readable by the CopilotKit hooks.
 <br><br>
 
 
