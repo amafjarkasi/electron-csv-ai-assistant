@@ -10,7 +10,7 @@ An Electron application with React and TypeScript that will analyze and provide 
 
 ![electron_rkASEMZk08](https://github.com/amafjarkasi/electron-csv-ai-assistant/assets/65797881/0ad38422-d2de-498d-9a75-a09072088c07)
 
-
+<br><br>
 
 ## Recommended IDE Setup
 
