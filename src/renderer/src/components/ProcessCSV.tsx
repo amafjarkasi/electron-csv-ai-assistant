@@ -26,7 +26,7 @@ function Versions(): JSX.Element {
   return (
     <ul className="versions">
       <li className="app-version">
-        Processed CSV Data: {processedCSVData ? Object.keys(processedCSVData).length : 0}
+        Processed CSV Rows: {processedCSVData ? Object.keys(processedCSVData).length : 0}
       </li>
     </ul>
   )
