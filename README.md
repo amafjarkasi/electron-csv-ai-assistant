@@ -6,11 +6,11 @@ CSV data. Several data example files were included for testing purposes.
 <br><br>
 
 
-![electron_QiKyCEBBNP](https://github.com/amafjarkasi/electron-csv-ai-assistant/assets/65797881/28fba778-28db-4128-81f6-8c5d420b0865)
+![electron_bXEzNi9SSx](https://github.com/amafjarkasi/electron-csv-ai-assistant/assets/65797881/3e4b3707-02d6-4aaa-927a-d26c7c9c292f)
 
-![electron_jMc4jE2pf1](https://github.com/amafjarkasi/electron-csv-ai-assistant/assets/65797881/298bba8e-f2e3-43dd-bb90-157f31a089d0)
+![electron_qrtCdRWbJm](https://github.com/amafjarkasi/electron-csv-ai-assistant/assets/65797881/e2b9a248-2e62-4a91-8e51-8a40ec519aeb)
 
-![electron_rkASEMZk08](https://github.com/amafjarkasi/electron-csv-ai-assistant/assets/65797881/0ad38422-d2de-498d-9a75-a09072088c07)
+![electron_H4Q6dcoumS](https://github.com/amafjarkasi/electron-csv-ai-assistant/assets/65797881/73f3c6f1-408b-46e1-a409-98d66d8da25d)
 
 ![electron_PqLjDe8mMS](https://github.com/amafjarkasi/electron-csv-ai-assistant/assets/65797881/134f5d97-e010-4f46-b036-66bbe202a0da)
 
