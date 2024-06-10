@@ -5,7 +5,7 @@ function Versions(): JSX.Element {
   const [processedCSVData, setProcessedCSVData] = useState(null)
 
   useCopilotReadable({
-    description: 'This displays the processed CSV data',
+    description: 'This is the processed CSV data',
     value: processedCSVData || []
   })
 
