@@ -1,4 +1,4 @@
-# electron-ai-two
+# Electron CSV AI Assistant
 
 An Electron application with React and TypeScript
 
