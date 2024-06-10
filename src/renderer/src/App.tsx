@@ -26,6 +26,7 @@ function App(): JSX.Element {
           }}
           defaultOpen={false}
           clickOutsideToClose={false}
+          instructions="This is a CSV AI Assistant. Provide insights on the data in the CSV file."
         >
           <div className="actions">
             <div className="action">
